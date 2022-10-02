@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi, it's Balazs 👋
+
+- freshly graduated from Codecool's Full-stack API course
+
+## tech I practice my skills in
+
+- Javascript
+- Typescript
+- React
+- Node.js, Express
+- MongoDB (Mongoose)
+- HTML, CSS
 
 <!--
 **bzsub/bzsub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
