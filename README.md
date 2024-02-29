@@ -1,8 +1,6 @@
 ### Hi, it's Balazs 👋
 
-- freshly graduated from Codecool's Full-stack API course
-
-## tech I practice my skills in
+tech I'm familiar with:
 
 - Javascript
 - Typescript
